@@ -31,7 +31,6 @@ pip install streamlit
 pip install collection
 ```
 # Conclusion
-# Conclusion
 After every inspection, we can see that 
 **Multinomial Naive Bayes** is the best performing algorithm with <br>
 
